@@ -1,0 +1,135 @@
+/*header*/
+body{
+    background-color: #C6D5FF;
+}
+.headDiv{
+    display: flex;
+    justify-content:space-between;
+    width: 1820px;
+    height: 98px;
+    margin-top: 36px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.headerHTMLlogo{
+    width: 63.77px;
+    height: 90px;
+    object-fit:contain ;
+}
+.div-nav-ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EBEBEB;
+    width: 539px;
+    height: 63px;
+    border: radius 3%;
+}
+.nav-ul{
+    display: flex;
+    align-items: center;
+    
+}
+.nav-li{
+    display: inline-block;
+    padding-right: 100px;
+    
+}
+.li-a1{
+    color: #A00000;
+    text-decoration: solid;
+}
+.li-a{
+    color: #000;
+}
+/*/header*/
+/* main */
+.coverdiv{
+    margin: 100px auto 0px auto;
+    width: 1820px;
+    object-fit: cover;
+}
+.h2class{
+    margin: 94px 50px;
+    font-size: 40px;
+    color: #000000;
+}
+.statiebi{
+    width: 1820px;
+    object-fit: cover;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-right: 50px;
+    
+    
+}
+.psd{
+    margin-left: 50px;
+    margin-right: 80px;
+}
+.pirvelistatia{
+    width: 869.5px;
+    height: 519px;
+    object-fit: cover;
+}
+.meorestatia{
+    width: 869.5px;
+    height: 519px;
+    object-fit: cover;
+    padding-right: 50px;
+
+}
+.pss{
+    margin-top: 31px;
+    font-size: 25px;
+    color: #4D4F5C;
+}
+.psp{
+    margin-top: 62px;
+    font-size: 15px;
+    color: #7C7C91;
+}
+.mesamestatia{
+    margin-left: 57px;
+    margin-top: 116px;
+    width: 1800.19px;
+    height: 451px;
+}
+.Potomesamestatia{
+    margin-right: 20px ;
+    margin-bottom: 35px;
+    float: left;
+    width: 869.5px;
+    height: 519px;
+    object-fit: cover;
+
+}
+.msp{
+    margin-top: 74px ;
+}
+/* /main */
+/* footer */
+.divfooter{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 600px;
+    width:1920px;
+    height: 117px;
+    background-color: #707070;
+    border: 2px solid #000000;
+} 
+.footertw{
+    width: 61.5px;
+    height: 50px;
+    background-color: #C6D5FF;
+    border-radius: 50%;
+}
+.footerfb{
+    width: 50px;
+    height: 50px;
+    background-color: #C6D5FF;
+    border-radius: 50%;
+}
+/* /footer */
